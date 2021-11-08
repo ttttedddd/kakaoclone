@@ -1,3 +1,3 @@
 #Kakao Clone Update
 
-Css got so much better!
+html & css are so much fun
